@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "274483922391",
+    "firebase_url": "https://edailytest-f066c.firebaseio.com",
+    "project_id": "edailytest-f066c",
+    "storage_bucket": "edailytest-f066c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274483922391:android:da68438ab8e534d1",
+        "android_client_info": {
+          "package_name": "kr.co.edaily.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274483922391-f6k6rr4brhds7qlj7n4pc0u2a1nq0k42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8S6Ojt6RBwqxem0fcxFdg9MNX8CF41Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274483922391:android:e904c71eb43d9e54",
+        "android_client_info": {
+          "package_name": "com.swu.fcm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274483922391-f6k6rr4brhds7qlj7n4pc0u2a1nq0k42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8S6Ojt6RBwqxem0fcxFdg9MNX8CF41Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
