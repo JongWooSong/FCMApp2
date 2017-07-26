@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //토큰 저장 로직
+        //토큰 저장 로직 - 송강가사 오늘 피곤하다. 잘하자!
         String savedToken = PrefUtil.getPref(this, MyFirebaseInstanceIDService.PUSH_TOKEN);
         if(savedToken != null || savedToken.length() == 0) {
             savedToken = FirebaseInstanceId.getInstance().getToken();
