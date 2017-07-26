@@ -8,7 +8,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 
 public class MainActivity extends AppCompatActivity {
 //정수w진
-    //정수진정수진 채나운채나운
+    //정수진정수진 채나운채나운운ㅇ운운
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         // 배고파 너무 고파
         ///ddd
         //dfdfd
+
         String savedToken = PrefUtil.getPref(this, MyFirebaseInstanceIDService.PUSH_TOKEN);
         if(savedToken != null || savedToken.length() == 0) {
             savedToken = FirebaseInstanceId.getInstance().getToken();
