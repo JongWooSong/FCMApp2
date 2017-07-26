@@ -7,7 +7,8 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 
 public class MainActivity extends AppCompatActivity {
-
+//정수w진
+    //정수진정수진 채나운채나운
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
