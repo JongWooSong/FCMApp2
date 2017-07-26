@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         // 아아아아
         // 배고파 너무 고파
         ///ddd
+        //dfdfd
         String savedToken = PrefUtil.getPref(this, MyFirebaseInstanceIDService.PUSH_TOKEN);
         if(savedToken != null || savedToken.length() == 0) {
             savedToken = FirebaseInstanceId.getInstance().getToken();
